@@ -1,4 +1,4 @@
-# 🔐 Why Are Props Immutable in React? (Hinglish Explanation)
+# 🔐 Why Are Props Immutable in React?
 
 ## 💭 Pehle samjho — props kya hote hain?
 
