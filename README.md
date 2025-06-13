@@ -11,5 +11,5 @@ Currently, two official plugins are available:
 
 If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
 
-###Understanding components
+### Understanding components
 ![662E23B9-FA45-462F-8B20-5BE90BAD31EC](https://github.com/user-attachments/assets/f51ad315-3685-423f-80ef-d58b5bdb8376)
