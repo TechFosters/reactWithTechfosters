@@ -14,7 +14,8 @@ If you are developing a production application, we recommend using TypeScript an
 ### Understanding components
 ![662E23B9-FA45-462F-8B20-5BE90BAD31EC](https://github.com/user-attachments/assets/f51ad315-3685-423f-80ef-d58b5bdb8376)
 
-# React Props Explained
+# React Concepts | Simplified
+### React Props Explained
 
 ## ❓ What are Props in React?
 
