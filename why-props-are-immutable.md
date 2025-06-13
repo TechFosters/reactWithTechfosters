@@ -129,8 +129,3 @@ const App = () => {
 | Functional Programming | Input (props) ko mutate nahi karte, sirf use karte hain   |
 
 ---
-
-## 📘 Bonus Tip
-
-> Agar data dynamic hai (change hona hai), toh use **`useState`** ya **`useReducer`** se handle karo.  
-> Props ko sirf data bhejne ke liye use karo — mutate karne ke liye nahi.
